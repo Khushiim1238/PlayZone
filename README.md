@@ -12,7 +12,7 @@ A modern, responsive video game discovery platform that helps you explore new an
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-[🚀 Live Demo](#-https://play-zone-murex.vercel.app/) | [📋 Features](#-features) | [🛠️ Installation](#️-getting-started) | [🎯 Usage](#-usage)
+[🚀 Live Demo](https://play-zone-murex.vercel.app/) | [📋 Features](#-features) | [🛠️ Installation](#-getting-started) | [🎯 Usage](#-usage)
 
 </div>
 
